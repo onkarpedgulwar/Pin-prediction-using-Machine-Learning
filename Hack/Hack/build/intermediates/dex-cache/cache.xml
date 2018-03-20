@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Hack\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="cb5fd1631f8fdfaca13af0d786d46892e1deba0a">
+        <dex dex="E:\Hack\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ff29257c2df894ace2eb04dcef527aa105469736\classes.dex" />
+    </item>
+    <item
+        jar="E:\Hack\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="E:\Hack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_6d225245b300d7ca13c9644b735b879e69147a28\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankita Chandekar\.gradle\caches\modules-2\files-2.1\commons-beanutils\commons-beanutils\1.9.3\c845703de334ddc6b4b3cd26835458cb1cba1f3d\commons-beanutils-1.9.3.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="c845703de334ddc6b4b3cd26835458cb1cba1f3d">
+        <dex dex="E:\Hack\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-beanutils-1.9.3_af5427dfb832e7eb2d8c145c50fb7c944e73744b\classes.dex" />
+    </item>
+    <item
+        jar="E:\Hack\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="E:\Hack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_397a2fdad35fb917d4b8676927c21ea2a5976c69\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankita Chandekar\.gradle\caches\modules-2\files-2.1\com.opencsv\opencsv\4.1\5d0a1c5f5e94c9fc00a7e6c886e2d2a1511ea95e\opencsv-4.1.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="5d0a1c5f5e94c9fc00a7e6c886e2d2a1511ea95e">
+        <dex dex="E:\Hack\app\build\intermediates\transforms\dex\debug\folders\1000\10\opencsv-4.1_dcbbbea7e19e874f47b4969770f24c41bcb07424\classes.dex" />
+    </item>
+    <item
+        jar="E:\Hack\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="E:\Hack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_c1c284740db5f25aae65ee3fcb3b0a15c4801a84\classes.dex" />
+    </item>
+    <item
+        jar="E:\Hack\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="E:\Hack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_df693c06212c9f47cd16f0e731c13992e977e5ad\classes.dex" />
+    </item>
+    <item
+        jar="E:\Hack\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="E:\Hack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_1921861d114a89c461bb595f26f13c41bfbb3fbd\classes.dex" />
+    </item>
+    <item
+        jar="E:\Hack\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Hack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_0aea69da2f4ed652271f053a07c5dc5bfafd79f3\classes.dex" />
+    </item>
+    <item
+        jar="E:\Hack\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="13071e2f94c2ce260b5275ff2f926b9e471499a9">
+        <dex dex="E:\Hack\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ead42c5f8191ab7dd7d7cc54a50996ce0647d939\classes.dex" />
+    </item>
+    <item
+        jar="E:\Hack\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="E:\Hack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_cca643759448afc2bb9ff406b1927a7b9dcf4f98\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankita Chandekar\.gradle\caches\modules-2\files-2.1\commons-collections\commons-collections\3.2.2\8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5\commons-collections-3.2.2.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5">
+        <dex dex="E:\Hack\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-collections-3.2.2_352049f0a6a2fa01be7462eac05760a78f2372fe\classes.dex" />
+    </item>
+    <item
+        jar="E:\Hack\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="E:\Hack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_d1db1f4f1b03560b5577b7231a7ef712b45cd9c9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankita Chandekar\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-text\1.1\c336bf600f44b88af356c8a85eef4af822b06a4d\commons-text-1.1.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="c336bf600f44b88af356c8a85eef4af822b06a4d">
+        <dex dex="E:\Hack\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-text-1.1_e01586f9064853e9a611baacca09c05d1bef75df\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankita Chandekar\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="E:\Hack\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_5a803f2b81f74c4606f02697a76f222b1fa84aee\classes.dex" />
+    </item>
+    <item
+        jar="E:\Hack\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="E:\Hack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_14f2d77df8a6ae806c54bd5a4e45cc1193e87e57\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ankita Chandekar\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.6\9d28a6b23650e8a7e9063c04588ace6cf7012c17\commons-lang3-3.6.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="9d28a6b23650e8a7e9063c04588ace6cf7012c17">
+        <dex dex="E:\Hack\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.6_09ecda9bb86c93b6afd05760107000718336590d\classes.dex" />
+    </item>
+
+</items>
